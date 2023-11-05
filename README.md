@@ -1,1 +1,2 @@
-# Attendance_management_system
+# 出席管理システム
+本システムは大学のPBL学習においてチーム開発を行なった。
